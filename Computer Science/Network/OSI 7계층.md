@@ -2,7 +2,7 @@
 
 <br>
 
-![OSI 7계층](../Operaing System/images/osi-7-layers.webp)
+![OSI 7계층](../Operaing%20System/images/osi-7-layers.webp)
 
 <br>
 
