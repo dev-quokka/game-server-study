@@ -4,7 +4,7 @@
 
 종류로는 Windows, Linux, UNIX, MS-DOS 등이 있습니다.
 
-![CS](../Operaing%20System/images/cs.png)
+![CS](../Operating%20System/images/cs.png)
 
 <br>
 

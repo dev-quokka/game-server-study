@@ -61,7 +61,7 @@
 
 ### 데이터 저장 구조
 
-![데이터 저장 구조](../Computer%20Science/Database/images/image.png)
+![데이터 저장 구조](../Database/images/image.png)
 
 <br>
 <br>
