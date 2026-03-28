@@ -26,4 +26,4 @@
   <br>
   
 ## 📌 Language
-- [용어 정리](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC.md)
+- [용어 정리](https://github.com/dev-quokka/game-server-study/blob/main/Language/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC.md)
