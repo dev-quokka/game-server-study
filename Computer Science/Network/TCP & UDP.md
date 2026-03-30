@@ -62,8 +62,6 @@ TCP와 UDP는 전송 계층(Transport Layer)에서 사용하는 대표적인 프
 
 - ### 3-way handshaking
 
-![3way](../Network/images/3way.png)
-
 <img src="../Network/images/3way.png" width="759" height="311"/>
 
 <br>
