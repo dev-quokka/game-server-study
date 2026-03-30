@@ -5,9 +5,11 @@
 ## 📌 Computer Science
 
 - ### Database
+
+  - [JOIN](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/%5BDB%5D%20JOIN.md)
   - [RDBMS vs NoSQL](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/RDBMS%20vs%20NoSQL.md)
   - [Redis란](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/Redis%EB%9E%80.md)
-
+ 
   <br>
 
 - ### Network
