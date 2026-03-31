@@ -31,6 +31,7 @@
   
 ## 📌 Language
 - [용어 정리](https://github.com/dev-quokka/game-server-study/blob/main/Language/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC.md)
+- [오버로딩 & 오버라이딩](https://github.com/dev-quokka/game-server-study/blob/main/Language/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%26%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 
 <br>
 
