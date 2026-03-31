@@ -75,48 +75,60 @@ public:
 
 <br>
 
-## 가상함수 테이블 (vtable)
+## 가상함수 테이블 (vtable)과 vptr
 
-가상함수는 내부적으로 vtable(가상함수 테이블)을 통해 동작합니다.
+가상함수는 내부적으로 vtable(가상함수 테이블)과 vptr를 통해 동작합니다.
 
 > vtable: 가상함수 주소를 저장하는 테이블  
 > vptr: 객체가 자신의 vtable을 가리키기 위해 가지는 포인터
 
+<br>
+
 - 각 클래스마다 하나의 vtable이 존재하고, 객체는 자신의 클래스에 해당하는 vtable을 가리키는 vptr을 가짐
 - 가상함수를 가진 객체는 런타임에 vtable을 참조하여 실제 호출할 함수를 결정
-- 가상함수를 사용하면 객체 내부에 vptr이 추가되어 객체 크기가 증가
+- 자식 클래스에서 오버라이딩된 함수는 vtable의 해당 함수 주소가 변경됨
+- 오버라이딩되지 않은 함수는 부모 클래스의 함수 주소가 그대로 유지됨
+- vtable은 프로그램의 정적 영역에 저장되며, vptr는 객체 내부 메모리에 포함됨
+
+<br>
 
 <br>
 
 **예제**
 
-```
-#include <iostream>
-using namespace std;
+<img src="../C++/images/vtable&vptr.png" width="850" height="468"/>
 
-class VirtualBase {
+```
+class Unit {
 public:
-    int a;
-    virtual void print() {}
+    virtual void Printinfo() {
+        cout << "Unit Call" << '\n';
+    }
+
+    void HitFrom(int damage_) {
+        hp -= damage_;
+        if (hp < 0) hp = 0;
+    }
+
+private:
+    int hp;
+    int attack;
 };
 
-class Base {
+class Monster : public Unit {
 public:
-    int a;
-    void print() {}
+    void Printinfo() override {
+        cout << "Monster Call" << '\n';
+    }
+
+private:
+    int grade;
 };
-
-int main() {
-    Base a;
-    VirtualBase b;
-
-    cout << sizeof(a) << '\n';
-    cout << sizeof(b) << '\n';
-}
 ```
 
-> 가상함수가 있는 클래스는
-> vptr 때문에 일반 클래스보다 크기가 더 커질 수 있습니다.
+> Unit 객체는 Unit의 vtable을 참조하며,  
+> Monster 객체는 오버라이딩된 PrintInfo 함수가 반영된 vtable을 참조합니다.  
+> 이때 오버라이딩되지 않은 HitFrom 함수는 부모 클래스의 함수 주소를 그대로 사용합니다.
 
 <br>
 
