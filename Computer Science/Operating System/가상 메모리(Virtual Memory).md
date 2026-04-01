@@ -61,7 +61,7 @@
 
 <br>
 
-_자세한 동작 원리는 `페이징(paging).md` 참고_
+_자세한 동작 원리는 [페이징(Paging)](<../Operating%20System/페이징(paging).md>) 참고_
 
 ---
 

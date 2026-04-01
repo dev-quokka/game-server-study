@@ -104,7 +104,7 @@ CPU는 페이지 테이블을 참조하여 가상 주소를 실제 물리 주소
 
 ### 구조
 
-<img src="../Operating%20System/images/페이지%20테이블.PNG" width="697" height="375"/>
+<img src="../Operating%20System/images/페이지%20테이블.png" width="697" height="375"/>
 
 <br>
 
