@@ -7,6 +7,7 @@
 - ### Database
 
   - [JOIN](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/%5BDB%5D%20JOIN.md)
+  - [인덱스(Index)](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/%5BDB%5D%20%EC%9D%B8%EB%8D%B1%EC%8A%A4(Index).md)
   - [RDBMS vs NoSQL](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/RDBMS%20vs%20NoSQL.md)
   - [Redis란](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/Redis%EB%9E%80.md)
  
