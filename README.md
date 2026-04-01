@@ -15,6 +15,7 @@
 - ### Network
   - [OSI 7 계층](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Network/OSI%207%EA%B3%84%EC%B8%B5.md)
   - [TCP & UDP](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Network/TCP%20%26%20UDP.md)
+  - [블로킹/논블로킹 & 동기/비동기](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Network/%EB%B8%94%EB%A1%9C%ED%82%B9%20%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9%20%26%20%EB%8F%99%EA%B8%B0%20%EB%B9%84%EB%8F%99%EA%B8%B0.md)
 
   <br>
 
