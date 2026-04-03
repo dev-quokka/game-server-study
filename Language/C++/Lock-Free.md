@@ -159,6 +159,10 @@ SpinLock은 busy-wait 기반이지만
 
 즉, SpinLock은 이 조건을 만족하지 못함
 
+<br>
+
+_자세한 비교는 [동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free)](<../C++/동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free).md>) 참고_
+
 ---
 
 <br>
