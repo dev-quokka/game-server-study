@@ -161,7 +161,7 @@ SpinLock은 busy-wait 기반이지만
 
 <br>
 
-_자세한 비교는 [동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free)](<../C++/동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free).md>) 참고_
+- _자세한 비교는 [동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free)](<../C++/동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free).md>) 참고_
 
 ---
 
