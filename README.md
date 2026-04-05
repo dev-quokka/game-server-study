@@ -45,3 +45,11 @@
   - [Conditional Variable](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/condition_variable.md)
   - [락프리(Lock-Free)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/Lock-Free.md)
   - [동기화 방식 비교 (Mutex vs SpinLock vs Lock-Free)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/%EB%8F%99%EA%B8%B0%ED%99%94%20%EB%B0%A9%EC%8B%9D%20%EB%B9%84%EA%B5%90%20(Mutex%20vs%20SpinLock%20vs%20Lock-Free).md)
+
+  <br>
+
+  <br>
+  
+## 📌 면접준비
+
+- [DB](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/DB.md)
