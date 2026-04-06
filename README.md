@@ -4,6 +4,11 @@
 
 ## 📌 Computer Science
 
+- ### Data Structure
+  - [자료구조란](https://github.com/dev-quokka/game-server-study/blob/main/Data%20Structure/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)%EB%9E%80.md)
+
+  <br>
+
 - ### Database
 
   - [JOIN](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/%5BDB%5D%20JOIN.md)
