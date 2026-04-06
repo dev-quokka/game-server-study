@@ -27,6 +27,7 @@
   - [가상 메모리(Virtual Memory)](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Operating%20System/%EA%B0%80%EC%83%81%20%EB%A9%94%EB%AA%A8%EB%A6%AC(Virtual%20Memory).md)
   - [페이징(paging)](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Operating%20System/%ED%8E%98%EC%9D%B4%EC%A7%95(paging).md)
   - [프로세스 & 스레드](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Operating%20System/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%26%20%EC%8A%A4%EB%A0%88%EB%93%9C.md)
+  - [커널 영역 & 유저 영역](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Operating%20System/%EC%BB%A4%EB%84%90%20%EC%98%81%EC%97%AD%20%26%20%EC%9C%A0%EC%A0%80%EC%98%81%EC%97%AD.md)
   - [Mutex & Semaphore](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Operating%20System/Mutex%20%26%20Semaphore.md)
   - [데드락(Deadlock)](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Operating%20System/%EB%8D%B0%EB%93%9C%EB%9D%BD(Deadlock).md)
 
