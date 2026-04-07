@@ -14,7 +14,7 @@ vector는 C++ 표준 라이브러리(STL)에서 제공하는
 
 ## Vector Container 구조
 
-<img src="../Language/C++/images/벡터 구조.png" width="520" height="304"/>
+<img src="../C++/images/벡터 구조.png" width="520" height="304"/>
 
 <br>
 
