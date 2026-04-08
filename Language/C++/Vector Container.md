@@ -16,8 +16,6 @@ vector는 C++ 표준 라이브러리(STL)에서 제공하는
 
 <img src="../C++/images/벡터 구조.png" width="520" height="304"/>
 
-<br>
-
 - begin(): 첫 번째 요소를 가리킴
 - end(): 마지막 요소 다음 위치를 가리킴
 - push_back(): 뒤쪽에 요소 추가
