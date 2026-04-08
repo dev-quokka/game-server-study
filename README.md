@@ -7,6 +7,7 @@
 - ### Data Structure
   - [자료구조란](https://github.com/dev-quokka/game-server-study/blob/main/Data%20Structure/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0(Data%20Structure)%EB%9E%80.md)
   - [Array](https://github.com/dev-quokka/game-server-study/blob/main/Data%20Structure/Array.md)
+  - [DSU (Disjoint Set Union)](https://github.com/dev-quokka/game-server-study/blob/main/Data%20Structure/DSU%20(Disjoint%20Set%20Union).md)
 
   <br>
 
