@@ -45,6 +45,7 @@
   <br>
   
 ## 📌 Language
+
 - [용어 정리](https://github.com/dev-quokka/game-server-study/blob/main/Language/%EC%9A%A9%EC%96%B4%EC%A0%95%EB%A6%AC.md)
 - [오버로딩 & 오버라이딩](https://github.com/dev-quokka/game-server-study/blob/main/Language/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9%20%26%20%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9.md)
 
@@ -61,6 +62,7 @@
 
   <br>
   
-## 📌 면접준비
+## 📌 면접 준비
 
 - [DB](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/DB.md)
+- [자료구조](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
