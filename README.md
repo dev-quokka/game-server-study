@@ -56,6 +56,7 @@
 - ### C++
   - [Vector Container](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/Vector%20Container.md)
   - [가상함수(Virtual Function)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/%EA%B0%80%EC%83%81%ED%95%A8%EC%88%98(Virtual%20Function).md)
+  - [C++ 타입 승격 (Type Promotion)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/C%2B%2B%20%ED%83%80%EC%9E%85%20%EC%8A%B9%EA%B2%A9.md)
   - [Conditional Variable](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/condition_variable.md)
 
   <br>
