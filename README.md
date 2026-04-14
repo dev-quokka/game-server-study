@@ -12,6 +12,11 @@
 
   <br>
 
+- ### Algorithm
+  - [이진 탐색 (Binary Search)](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Algorithm/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20(Binary%20Search).md)
+
+  <br>
+
 - ### Database
 
   - [JOIN](https://github.com/dev-quokka/game-server-study/blob/main/Computer%20Science/Database/%5BDB%5D%20JOIN.md)
