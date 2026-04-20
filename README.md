@@ -61,7 +61,8 @@
 <br>
 
 - ### C++
-  - [포인터 & 참조](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/%ED%8F%AC%EC%9D%B8%ED%84%B0%20%26%20%EC%B0%B8%EC%A1%B0.md) 
+  - [포인터 & 참조](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/%ED%8F%AC%EC%9D%B8%ED%84%B0%20%26%20%EC%B0%B8%EC%A1%B0.md)
+  - [lvalue, rvalue & Move Semantics](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/lvalue%2C%20rvalue%20%26%20Move%20Semantics.md)
   - [Vector Container](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/Vector%20Container.md)
   - [가상함수(Virtual Function)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/%EA%B0%80%EC%83%81%ED%95%A8%EC%88%98(Virtual%20Function).md)
   - [C++ 타입 승격 (Type Promotion)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/C%2B%2B%20%ED%83%80%EC%9E%85%20%EC%8A%B9%EA%B2%A9.md)
