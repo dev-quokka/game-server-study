@@ -205,7 +205,7 @@ std::string s3 = std::move(s1);  // 이동 생성자 호출 (s1을 rvalue로 캐
 
 <br>
 
-#### std::move 동작 흐름 정리
+### std::move 동작 흐름 정리
 
 1. std::move(s1) → s1을 rvalue reference(std::string&&)로 **캐스팅**
 2. s3의 이동 생성자가 호출됨 (rvalue를 받기 때문)
@@ -214,12 +214,33 @@ std::string s3 = std::move(s1);  // 이동 생성자 호출 (s1을 rvalue로 캐
 
 <br>
 
-#### 주의할 점
+### 주의할 점
 
-std::move 후 원본(s1)은 **읽지 말기!**
+#### 1. std::move 후 원본(s1)은 **읽지 말기!**
 
 유효한 상태이긴 하지만 어떤 값을 가질지 보장되지 않습니다.  
 (재할당은 가능 → s1 = "새로운 값" 은 가능)
+
+<br>
+
+#### 2. const 객체에 std::move를 쓰면 이동이 아니라 **복사**가 일어납니다.
+
+```cpp
+const std::string a = "aaa";
+std::string b = "bbb";
+
+std::string ta = std::move(a);  // copy 발생
+std::string tb = std::move(b);  // move 발생
+
+std::cout << a.size() << '\n';  // 3 (원본 유지)
+std::cout << b.size() << '\n';  // 구현에 따라 다름 (보통 0)
+```
+
+<br>
+
+#### 3. 기본 타입(int, double, raw pointer 등)에 std::move는 효과가 없습니다.
+
+훔쳐올 자원이 없어 이동과 복사가 동일하게 동작하며, 원본 값도 그대로 유지됩니다.
 
 <br>
 
