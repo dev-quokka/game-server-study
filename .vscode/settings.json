@@ -1,9 +1,0 @@
-{
-  "python-envs.pythonProjects": [
-    {
-      "path": "Language/C++/images",
-      "envManager": "ms-python.python:venv",
-      "packageManager": "ms-python.python:pip"
-    }
-  ]
-}
