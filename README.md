@@ -69,6 +69,7 @@
   - [C++ 타입 승격 (Type Promotion)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/C%2B%2B%20%ED%83%80%EC%9E%85%20%EC%8A%B9%EA%B2%A9.md)
   - [C++ 캐스팅 (Type Casting)](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/C%2B%2B%20%EC%BA%90%EC%8A%A4%ED%8C%85%20(Type%20Casting).md)
   - [Conditional Variable](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/condition_variable.md)
+  - [C++ 난수와 셔플](https://github.com/dev-quokka/game-server-study/blob/main/Language/C%2B%2B/C%2B%2B%20%EB%82%9C%EC%88%98%EC%99%80%20%EC%85%94%ED%94%8C.md)
 
   <br>
 
