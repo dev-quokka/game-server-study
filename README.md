@@ -79,5 +79,6 @@
 ## 📌 면접 준비
 
 - [C++](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/C%2B%2B.md)
-- [DB](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/DB.md)
+- [OS](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/OS.md)
 - [자료구조](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
+- [DB](https://github.com/dev-quokka/game-server-study/blob/main/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84/DB.md)
